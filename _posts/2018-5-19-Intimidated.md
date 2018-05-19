@@ -5,7 +5,6 @@ title: Test post!
 
 hello world hi how are you all
 
-
 Well, if there's a bright center to the universe, you're on the planet that it's farthest from. I see, sir. Uh, you can call me Luke. I see, sir Luke. Just Luke. And I am See-Threepio, human-cyborg relations, and this is my counterpart, Artoo-Detoo. Hello. You got a lot of carbon scoring here. It looks like you boys have seen a lot of action. With all we've been through, sometimes I'm amazed we're in as good condition as we are, what with the Rebellion and all. You know of the Rebellion against the Empire? That's how we came to be in your service, if you take my meaning, sir.
 
 Run, Luke! Run!
