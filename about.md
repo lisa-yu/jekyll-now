@@ -9,6 +9,8 @@ I am attempting to develop other hobbies and passions other than mindlessly scro
 
 Feel free to watch as I try to alleviate myself of that!
 
+[Resume](/files/LisaYuResume.pdf)
+
 ### Contact me
 
 [lisayu@utexas.edu](mailto:lisayu@utexas.edu)
